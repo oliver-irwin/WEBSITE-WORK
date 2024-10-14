@@ -1,0 +1,61 @@
+
+#navbar{
+    background-color:rgb(3,17,10);
+    padding: 10px;
+    display: flex;
+    justify-content: start;
+    column-gap: 1100px;
+    
+    
+
+}
+
+#nav-right{
+    color: rgb(255,255,255);
+    display:flex;
+    justify-content: center;
+    column-gap: 30px;
+
+}
+.nav{
+    color: rgb(255,255,255);
+    
+
+}
+a:hover{
+    color: rgb(1,85,33);
+}
+.pics img{
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    
+}
+.pics{
+    display: flex;
+    justify-content: center;
+}
+p{
+    display: flex;
+    justify-content: center;
+    color: rgb(3, 17, 10);
+
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+.pics1 img{
+    width: 300px;
+    display: flex;
+    justify-content: center;
+}
+.pics1{
+    display: flex;
+    justify-content: center;
+    column-gap: 230px;
+}
+.pl{
+    display: flex;
+    justify-content: space-between;
+}
